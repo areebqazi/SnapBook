@@ -1,4 +1,5 @@
-![Alt Text](client/public/assets/Screenshot(104).jpg)
+
+![Screenshot (104)](https://github.com/areebqazi/SnapBook/assets/66074608/af6d4cc5-c16a-4828-92cc-1ffd9bb9781e)
 
 # Snap Book 
 
