@@ -1,4 +1,4 @@
-
+![Alt Text](/client/src/assets/)
 # Snap Book 
 
 Snap Book - A MERN Social Media Application
