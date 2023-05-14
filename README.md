@@ -1,4 +1,4 @@
-![Alt Text](client/public/assets/Screenshot (104).jpg)
+![Alt Text](snapbook/client/public/assets/Screenshot (104).jpg)
 # Snap Book 
 
 Snap Book - A MERN Social Media Application
