@@ -1,41 +1,45 @@
+
+# Snap Book 
+
 Snap Book - A MERN Social Media Application
 Snap Book is a social media application built using the MERN stack (MongoDB, Express, React, and Node.js). The application allows users to create an account, add friends, create posts, like and comment on posts, and view their friend's posts. The application is built with a responsive design, making it accessible on both desktop and mobile devices.
 
-Getting Started
-Prerequisites
-Before running Snap Book, ensure that you have the following installed:
+Getting Started - 
 
+Prerequisites :
+
+Before running Snap Book, ensure that you have the following installed:
 Node.js
 MongoDB
-Installation
+
+Installation :
+
 Clone the repository: git clone https://github.com/your-username/snap-book.git
 
-Install the dependencies for both the client and server:
+Install the dependencies for both the client and server :
 
-bash
-Copy code
-cd snap-book
+cd snap-book   
+npm install    
+cd client  
 npm install
-cd client
-npm install
-Create a .env file in the server directory and add the following variables:
 
-makefile
-Copy code
+Create a .env file in the server directory and add the following variables :
+
+
 MONGO_URI=<your-mongodb-uri>
-JWT_SECRET=<your-jwt-secret>
-Start the development server:
 
-arduino
-Copy code
-npm run dev
-The server will run on port 5000 and the client will run on port 3000.
+cd api   
+npm start   
+cd client  
+npm start  
+
+The server will run on port 8080 and the client will run on port 3000.
 
 Folder Structure
 The project is structured as follows:
 
 client: This folder contains the React client-side code.
-server: This folder contains the Node.js server-side code.
+api: This folder contains the Node.js server-side code.
 config: This folder contains the configuration files for the server.
 controllers: This folder contains the controllers for the server.
 models: This folder contains the MongoDB models used by the server.
