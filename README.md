@@ -26,7 +26,7 @@ npm install
 Create a .env file in the server directory and add the following variables :
 
 
-MONGO_URI= <your-mongodb-uri>
+MONGO_URI= "<your-mongodb-uri>"
 
 cd api   
 npm start   
